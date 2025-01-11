@@ -15,8 +15,6 @@ Progressive Web Apps (PWAs) were introduced by Google in 2015 as a set of featur
 4. **Installation Requirement**
    - Apps must be downloaded and installed, whereas websites can be accessed instantly via a browser.
 
----
-
 ## Disadvantages of Websites
 
 1. **Session Persistence**
