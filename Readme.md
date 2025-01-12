@@ -59,7 +59,31 @@ Progressive Web Apps (PWAs) were introduced by Google in 2015 as a set of featur
    - PWAs can access device APIs, providing enhanced functionality and a richer user experience. Examples include accessing the camera, geolocation, Bluetooth, and more, allowing PWAs to deliver app-like capabilities directly through the browser.
 
 
+## Disadvantages of PWA
+
+1. **Performance Issues**
+   - PWAs may not perform as well as native apps, especially on older devices or slower networks.
+
+2. **Limited Access to Device APIs**
+   - PWAs may not have full access to all device APIs, limiting their capabilities compared to native apps.
+
+3. **Limited User Experience**
+   - PWAs may not have the same level of user experience as native apps, especially in terms of performance and accessibility.
+
+4. **Limited Discoverability**
+   - PWAs may not be as discoverable as native apps, especially on app stores or in search results.
+
+5. **Limited Security**
+   - PWAs may not have the same level of security as native apps, especially in terms of data protection and user authentication.
+
 
 ## Conclusion
 
 PWAs combine the advantages of both websites and native apps, making them a versatile solution for modern web applications. By addressing the limitations of traditional apps and websites, PWAs offer a cost-effective and engaging experience for users.
+
+
+
+## WebAssembly
+
+WebAssembly (Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable target for compilation of high-level languages like C/C++, Rust, etc. (Future things)
+
